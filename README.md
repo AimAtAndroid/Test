@@ -12,14 +12,14 @@
 ### Tasks
 #### 1. Task1
 
-![task1]()
+![task1](https://github.com/AimAtAndroid/Test/blob/master/Screenshots/Tasks/task1.png)
 
 ***
 #### 2. Task2
 
 
 
-![task2]()
+![task2](https://github.com/AimAtAndroid/Test/blob/master/Screenshots/Tasks/task2.png)
 
 ***
 
